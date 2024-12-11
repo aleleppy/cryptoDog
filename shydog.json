@@ -1,32 +1,6 @@
 {
-  "name": "$HYDOG",
+  "name": "Shy Dog",
   "symbol": "$HYDOG",
   "description": "A shy Dog t.me/SHYDOGCRYPTO",
-  "seller_fee_basis_points": 500,
-  "image": "https://files.catbox.moe/ssq8l1.png",
-  "attributes": [
-    {
-      "trait_type": "Category",
-      "value": "Example"
-    }
-  ],
-  "collection": {
-    "name": "",
-    "family": ""
-  },
-  "properties": {
-    "files": [
-      {
-        "uri": "https://files.catbox.moe/ssq8l1.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "5dmufsPL9ECpEJCT9fRBhC4xRVSucvrE7HN9jSEuKmKs",
-        "share": 100
-      }
-    ]
-  }
+  "image": "https://files.catbox.moe/31oah6.png"
 }
